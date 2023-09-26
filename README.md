@@ -1,5 +1,5 @@
 # Product Analysis Dashboard 
-This repository contains a Power BI dashboard that visualizes data on Adventure works Products . The dashboard provides an interactive view of the data, allowing users to explore the data and gain insights about the total products  sales and take decisions based on these insights.
+This repository contains a Power BI dashboard that visualizes data on Adventure works Products . The dashboard provides an interactive view of the data, allowing users to explore the data and gain insights about the total products sales and take decisions based on these insights.
 
 The dashboard includes several visualizations, including:
 - Total sales by Month and Category.
